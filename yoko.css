@@ -114,3 +114,36 @@ section.contpage {
 	text-align: center;
 	font-size: 20px;
 }
+
+header
+{
+	height: 200px;
+}
+
+article p
+{
+	text-align: justify;
+}
+
+aside
+{
+	width: 230px;
+	margin: 20;
+	float: right;
+}
+
+article a
+{
+	color: #de6581;
+	text-decoration: none;
+}
+
+h1, h2, h3
+{
+	font-weight: normal;
+}
+
+#elso
+{
+	margin-left: 20px;
+}
