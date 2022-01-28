@@ -1,2 +1,1 @@
-# ykfeladat
-for school
+#for school
