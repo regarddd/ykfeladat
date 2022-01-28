@@ -1,1 +1,2 @@
-#for school
+# for school
+ignore ty
