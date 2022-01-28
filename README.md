@@ -1,2 +1,2 @@
-# ykfeladat
-for school
+# for school
+ignore ty
